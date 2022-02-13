@@ -1,0 +1,28 @@
+body {
+    width: 1440px;
+    background-color: hsl(212, 45%, 89%) ;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+.wer{
+    
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    border: 5px solid hidden;
+    border-radius: 15px;
+    padding: 10px;
+    padding-bottom: 4px;
+    margin-left: 45%;
+}
+p {
+    font-size: 15px;
+}
+h4 {
+    font-weight: 700;
+}
+small {
+     font-weight: 400;
+}
+
